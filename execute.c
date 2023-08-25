@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *execute_the_line - the function to use execve while executing the line
+ *execute - the function to use execve while executing the line
  *@buffer: the buffer with the whole command
  *Return: integer of the status
  */
@@ -17,7 +17,7 @@ int execute(char *buffer[])
 	}
 	else
 	{
-		
+
 		strcat(path, buffer[0]);
 		v = execve(path, buffer, environ);
 	}
