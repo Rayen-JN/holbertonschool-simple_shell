@@ -21,6 +21,6 @@ int handel(char *buffer)
 	}
 	else
 		wait(NULL);
-	
+
 	return (f);
 }
