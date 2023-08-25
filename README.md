@@ -70,6 +70,3 @@ also in non-interactive mode:
 
 # :black_nib: Contributors:
 ### Rayen jouini
-### Adib Ben Hadada
-### Samir Arfaoui
-# holbertonschool-simple_shell
