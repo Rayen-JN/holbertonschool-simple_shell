@@ -1,0 +1,27 @@
+.TH SIMPLE-SHELL "August 2023"
+.SH NAME
+simple-shell \- A simple command-line shell
+.SH SYNOPSIS
+.B simple-shell
+[\f-l\fR]... [\fls\fR]
+.SH DESCRIPTION
+\fBsimple-shell\fR is a basic command-line shell that allows users to interact with their system through command-line inputs.
+.PP
+The following \fpwd\fR can be used:
+.TP
+\fB-h, --help\fR
+Display help and usage information.
+.SH COMMANDS
+Supported \fls\fR:
+.TP
+.SH OPTIONS
+.TP
+\fB-h, --help\fR
+Display help and usage information.
+.SH AUTHOR
+Written by Rayen and Adib.
+.SH REPORTING BUGS
+Report bugs to <your@email.com>.
+.SH COPYRIGHT
+Copyright \Rayen jouini This is free software.
+You are free to redistribute it under the terms of the MIT License.
